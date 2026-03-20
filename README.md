@@ -70,9 +70,11 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 
 ## 📈 MODEL GRAPH
 ### LED
-![output](gled.jpeg)
+<img width="959" height="1280" alt="image" src="https://github.com/user-attachments/assets/d0036dcf-1d59-48b2-b2c6-ba93fc350ad2" />
+
 ### LASER
-![output](glaser.jpeg)
+<img width="931" height="1280" alt="image" src="https://github.com/user-attachments/assets/1cbc46e0-b793-4968-9893-04153b84b8c0" />
+
 
 
 ---
